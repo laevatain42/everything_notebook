@@ -1,2 +1,2 @@
-# Everything_notebook
+# everything_notebook
 啥都有的笔记
